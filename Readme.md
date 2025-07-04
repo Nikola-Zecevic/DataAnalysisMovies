@@ -1,0 +1,1 @@
+This project is focusing and exploring different reasons for success of a certain movie(in other words which factors influence movie success)! 
